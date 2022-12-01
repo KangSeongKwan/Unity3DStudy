@@ -6,7 +6,7 @@ public class CameraController : MonoBehaviour
 {
     private float rotateSpeedX = 3;
     private float rotateSpeedY = 3;
-    private float rotateSpeedZ = 3;
+    // private float rotateSpeedZ = 3;
     private float limitMinX = -80;
     private float limitMaxX = 50;
     private float eulerAngleX;
